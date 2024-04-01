@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "8052.h": "c",
+        "displaynumber.h": "c",
+        "8051.h": "c",
+        "lint.h": "c",
+        "key.h": "c"
+    }
+}

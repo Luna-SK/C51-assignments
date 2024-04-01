@@ -1,0 +1,6 @@
+#if !defined(__DISPLAYBUTTONCOUNTNUMBER)
+#define __DISPLAYBUTTONCOUNTNUMBER
+
+void DisplayButtonCountNumber();
+
+#endif // __DISPLAYBUTTONCOUNTNUMBER
