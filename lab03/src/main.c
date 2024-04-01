@@ -6,5 +6,5 @@ void main()
 {
 	// ControlLED1();
 	// DisplayButtonNumber();
-	// DisplayButtonCountNumber();
+	DisplayButtonCountNumber();
 }

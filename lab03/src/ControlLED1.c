@@ -3,14 +3,15 @@
 
 void ControlLED1()
 {
-    if (!P3_1)
+    while (1)
     {
-        Delay(20);
-        while (P3_1)
-            ;
-        Delay(20);
-        P2_0 = !P2_0;
+        if (!P3_1)
+        {
+            Delay(20);
+            while (!P3_1)
+                ;
+            Delay(20);
+            P2_0 = !P2_0;
+        }
     }
-    while(1)
-        ;
 }
