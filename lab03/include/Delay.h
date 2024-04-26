@@ -1,6 +1,6 @@
-#ifndef __DELAY_H__
-#define __DELAY_H__
+#if !defined(__DELAY_H)
+#define __DELAY_H
 
 void Delay(unsigned int miliseconds);
 
-#endif
+#endif // __DELAY_H

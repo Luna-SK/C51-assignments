@@ -1,6 +1,6 @@
-#ifndef __STATICDISPLAY_H__
-#define __STATICDISPLAY_H__
+#if !defined(__STATICDISPLAY_H)
+#define __STATICDISPLAY_H
 
-void StaticDisplay(unsigned char location,unsigned char number);
+void StaticDisplay(unsigned char location, unsigned char number);
 
-#endif
+#endif // __STATICDISPLAY_H

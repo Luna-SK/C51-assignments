@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "8052.h": "c",
+        "displaynumber.h": "c",
+        "8051.h": "c",
+        "lint.h": "c",
+        "key.h": "c",
+        "uart.h": "c",
+        "stdbool.h": "c",
+        "timer0.h": "c",
+        "staticdisplay.h": "c",
+        "buzzer.h": "c",
+        "musiccastleinthesky.h": "c",
+        "musiccastleinsky.h": "c",
+        "music.h": "c",
+        "music_castleinsky.h": "c"
+    }
+}

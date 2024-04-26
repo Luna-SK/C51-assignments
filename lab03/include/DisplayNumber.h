@@ -1,6 +1,6 @@
-#ifndef __DISPLAYNUMBER_H__
-#define __DISPLAYNUMBER_H__
+#if !defined(__DISPLAY_NUMBER_H)
+#define __DISPLAY_NUMBER_H
 
 extern unsigned char Display_number[];
 
-#endif
+#endif // __DISPLAY_NUMBER_H
