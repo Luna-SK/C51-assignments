@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "8052.h": "c",
+        "lint.h": "c",
+        "extinterrupt.h": "c",
+        "8051.h": "c",
+        "interrupt.h": "c"
+    },
+    "cmake.sourceDirectory": "/Users/luna/Documents/assignments/2023-2024-2/C51/vscode/lab06/lab06-4/.pio/libdeps/STC89C52RC/Unity"
+}
