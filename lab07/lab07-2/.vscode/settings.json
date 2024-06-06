@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "8051.h": "c",
+        "string.h": "c"
+    },
+    "cmake.sourceDirectory": "/Users/luna/Documents/assignments/2023-2024-2/C51/vscode/lab07/lab07-2/.pio/libdeps/STC89C52RC/Unity"
+}

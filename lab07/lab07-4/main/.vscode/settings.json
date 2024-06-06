@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "8052.h": "c",
+        "lint.h": "c",
+        "uart.h": "c"
+    }
+}
